@@ -6,4 +6,4 @@ The main concern of this project is the fluctuations in the compass and the inac
 
 Please see the demo on [youtube](https://youtu.be/Qo12dEF-1TI])
 
-For a more detailed project description, please see the [report](Projet AR - Oskar Hallström.pdf)
+For a more detailed project description, please see the [report](https://github.com/ohallstrom/arproject/blob/6401574d207e92654526d50c8049ea21e4bcf388/Projet%20AR%20-%20Oskar%20Hallstro%CC%88m.pdf)
