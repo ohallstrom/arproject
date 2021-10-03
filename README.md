@@ -6,4 +6,4 @@ The main concern of this project is the fluctuations in the compass and the inac
 
 With this in mind, please have a look at the following demo for this proof of concept.
 
-Please see the demo here![https://youtu.be/Qo12dEF-1TI]
+Please see the demo here[https://youtu.be/Qo12dEF-1TI]()
